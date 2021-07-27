@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e21ffc96-4012-4893-94e2-2841fa397d9a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../seamcarving/src/seamcarving/AStarSeamFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../seamcarving/src/seamcarving/AStarSeamFinder.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qmB7aZUNhKeK7t8o3ZN2xJN8g9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e21ffc96-4012-4893-94e2-2841fa397d9a" name="Default Changelist" comment="" />
+      <created>1617674719762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617674719762</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="578" y="326" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1617674969394">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="326" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1617674969394" />
+    <state x="328" y="117" key="SettingsEditor" timestamp="1617675000775">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="328" y="117" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1617675000775" />
+  </component>
+</project>
